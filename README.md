@@ -1,4 +1,4 @@
-| S.No. | Stars | Registration No. | Name | Git Repo Link |
+| SNo. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
 | 2 | | PCE16CE085 | RISHINA DARGAR | https://github.com/rishinadargar/My-ML-Practice |
@@ -23,6 +23,7 @@
 | 21 | | PCE16CE104 | Suraj Kumar | https://github.com/srj789/My-Ml-Practice |
 | 22 | | PCE16CE301 | Mohit Agarwal ||
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
+| 24 | | PCE16CE052 | Jaya Sharma  |https://github.com/10-jaya/my-ML-project/blob/master/test.py
 ## Wild Card
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
